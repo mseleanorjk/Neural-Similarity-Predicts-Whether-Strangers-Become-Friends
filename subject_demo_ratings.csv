@@ -1,0 +1,11 @@
+subject,enjoyment_vid1,interest_vid1,enjoyment_vid2,interest_vid2,enjoyment_vid3,interest_vid3,enjoyment_vid4,interest_vid4,enjoyment_vid5,interest_vid5,age,gender,nationality,handedness,college,hometown,major,industry
+sub1,1,5,4,1,4,3,4,1,2,3,34,F,China,Right,Harvard University,Tokyo,English,Arts/Media/Entertainment
+sub2,5,2,4,3,1,4,4,5,3,5,36,F,India,Right,University of Oxford,New York City,Finance,Financial Services - Investment Banking/Brokerage
+sub3,3,5,3,5,1,1,1,1,3,2,36,F,Brazil,Right,University of Tokyo,São Paulo,Finance,Technology - Computers/Software
+sub4,2,1,5,2,1,4,3,1,4,3,26,M,United States,Left,Stanford University,London,Engineering,Financial Services - Investment Banking/Brokerage
+sub5,3,4,4,2,4,4,4,2,5,5,31,M,United States,Right,National University of Singapore,Cairo,Political Science,Financial Services - Insurance
+sub6,2,3,3,1,2,4,5,2,5,2,38,M,India,Right,ETH Zurich,Mexico City,Engineering,Aerospace
+sub7,3,3,1,1,2,2,1,3,5,3,30,M,United States,Right,Massachusetts Institute of Technology (MIT),Sydney,Business Administration,Arts/Media/Entertainment
+sub8,3,5,5,2,3,2,5,4,1,1,38,M,Brazil,Right,University of Melbourne,Mumbai,Business Administration,Financial Services - Investment Banking/Brokerage
+sub9,3,4,2,5,5,5,5,2,4,4,39,F,India,Right,Yale University,Paris,Business Administration,Arts/Media/Entertainment
+sub10,1,2,3,2,2,3,3,3,4,3,25,M,Brazil,Right,Tsinghua University,Beijing,Political Science,Education
