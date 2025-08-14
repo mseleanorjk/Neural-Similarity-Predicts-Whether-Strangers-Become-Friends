@@ -10,13 +10,11 @@ The source code produces the results in the friend_group_contrast and dist_chang
 
 The source_data.csv includes the source data at the dyad level (specifically, the inter-subject correlation and social distance data that we generated in this study, as well as dyadic similarities in ratings of enjoyment of and interest in the stimuli and handedness). To ensure participant anonymity, other demographic data can be made available upon request to accredited researchers after signing a non-disclosure agreement; some demographic data (regarding participants’ hometowns, undergraduate institutions, nationalities, and industries of prior employment) can only be made available at the dyadic, rather than individual, level.
 
+### Publication
+Shen, Y. L., Hyon, R., Wheatley, T., Kleinbaum, A. M., Welker, C. L., & Parkinson, C. (2025). Neural similarity predicts whether strangers become friends. Nature human behaviour, 10.1038/s41562-025-02266-7. Advance online publication. https://doi.org/10.1038/s41562-025-02266-7
+
 ---
 Copyright 2025 Yixuan Shen
 
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
-
-### Publication:
-Shen, Y. L., Hyon, R., Wheatley, T., Kleinbaum, A. M., Welker, C. L., & Parkinson, C. (2025). Neural similarity predicts whether strangers become friends. Nature human behaviour, 10.1038/s41562-025-02266-7. Advance online publication. https://doi.org/10.1038/s41562-025-02266-7
-
-   http://www.apache.org/licenses/LICENSE-2.0
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
