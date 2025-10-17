@@ -1,0 +1,46 @@
+City1,City2,dist_hometown
+Tokyo,New York City,10848.82
+Tokyo,São Paulo,18534.27
+Tokyo,London,9558.73
+Tokyo,Cairo,9564.32
+Tokyo,Sydney,7826.63
+Tokyo,Mumbai,6723.97
+Tokyo,Paris,9712.08
+Tokyo,Beijing,2092.4
+Tokyo,Mexico City,11305.96
+New York City,São Paulo,7685.64
+New York City,London,5570.23
+New York City,Cairo,9022.01
+New York City,Sydney,15988.78
+New York City,Mumbai,12538.03
+New York City,Paris,5837.25
+New York City,Beijing,10989.11
+New York City,Mexico City,3359.39
+São Paulo,London,9497.41
+São Paulo,Cairo,10219.67
+São Paulo,Sydney,13357.22
+São Paulo,Mumbai,13774.03
+São Paulo,Paris,9401.9
+São Paulo,Beijing,17599.21
+São Paulo,Mexico City,7432.03
+London,Cairo,3511.32
+London,Sydney,16993.96
+London,Mumbai,7191.71
+London,Paris,343.56
+London,Beijing,8141.07
+London,Mexico City,8928.74
+Cairo,Sydney,14416.56
+Cairo,Mumbai,4358.22
+Cairo,Paris,3210.02
+Cairo,Beijing,7544.29
+Cairo,Mexico City,12368.6
+Sydney,Mumbai,10156.83
+Sydney,Paris,16960.52
+Sydney,Beijing,8948.2
+Sydney,Mexico City,12972.87
+Mumbai,Paris,7009.34
+Mumbai,Beijing,4744.5
+Mumbai,Mexico City,15645.39
+Paris,Beijing,8217
+Paris,Mexico City,9196.27
+Beijing,Mexico City,12458.07

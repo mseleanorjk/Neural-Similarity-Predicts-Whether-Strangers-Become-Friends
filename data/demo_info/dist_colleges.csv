@@ -1,0 +1,46 @@
+college1,college2,dist_college
+Harvard University,University of Oxford,5184.4
+Harvard University,University of Tokyo,10782.7
+Harvard University,Stanford University,4323.96
+Harvard University,National University of Singapore,15131.84
+Harvard University,ETH Zurich,6020.53
+Harvard University,Massachusetts Institute of Technology (MIT),2.64
+Harvard University,University of Melbourne,16927.62
+Harvard University,Tsinghua University,10824.19
+Harvard University,Yale University,190.47
+University of Oxford,University of Tokyo,9575.66
+University of Oxford,Stanford University,8563.32
+University of Oxford,National University of Singapore,10919.98
+University of Oxford,ETH Zurich,856.82
+University of Oxford,Massachusetts Institute of Technology (MIT),5184.05
+University of Oxford,University of Melbourne,16969.14
+University of Oxford,Tsinghua University,8164.2
+University of Oxford,Yale University,5374.85
+University of Tokyo,Stanford University,8303.78
+University of Tokyo,National University of Singapore,5329.44
+University of Tokyo,ETH Zurich,9579.06
+University of Tokyo,Massachusetts Institute of Technology (MIT),10785.18
+University of Tokyo,University of Melbourne,8191.37
+University of Tokyo,Tsinghua University,2105.34
+University of Tokyo,Yale University,10824.66
+Stanford University,National University of Singapore,13628.86
+Stanford University,ETH Zurich,9392.12
+Stanford University,Massachusetts Institute of Technology (MIT),4326.11
+Stanford University,University of Melbourne,12656.3
+Stanford University,Tsinghua University,9543.26
+Stanford University,Yale University,4198.47
+National University of Singapore,ETH Zurich,10295.09
+National University of Singapore,Massachusetts Institute of Technology (MIT),15133.46
+National University of Singapore,University of Melbourne,6060.39
+National University of Singapore,Tsinghua University,4487.15
+National University of Singapore,Yale University,15265.06
+ETH Zurich,Massachusetts Institute of Technology (MIT),6020.08
+ETH Zurich,University of Melbourne,16344.67
+ETH Zurich,Tsinghua University,7968.79
+ETH Zurich,Yale University,6210.75
+Massachusetts Institute of Technology (MIT),University of Melbourne,16929.38
+Massachusetts Institute of Technology (MIT),Tsinghua University,10826.25
+Massachusetts Institute of Technology (MIT),Yale University,190.8
+University of Melbourne,Tsinghua University,9130.06
+University of Melbourne,Yale University,16769.75
+Tsinghua University,Yale University,10924.6
